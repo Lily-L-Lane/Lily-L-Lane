@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Lily-L-Lane
-- I am currently an AI and Chemistry research intern at Ames National Laboratory. I am doing work in applications of Machine Learning to Spectroscopy to determine concentrations of Ligands.
+- 🪷 Hi, I’m @Lily-L-Lane
+- 🧪 I am currently an AI and Chemistry research intern at Ames National Laboratory. I am doing work in applications of Machine Learning to Spectroscopy to determine concentrations of Ligands.
 - 👀 I’m interested in Machine Learning, data analysis/deep learning, Full-stack development, catalysis, spectroscopy, and applications of AI to streamline Chemical Engineering Processes, particularly in the realm of Energy and extracting critical materials.
 - 📫 LinkedIn: www.linkedin.com/in/lily-l-lane
 - 😄 Pronouns: She/her/hers
